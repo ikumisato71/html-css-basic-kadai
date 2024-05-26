@@ -4,7 +4,6 @@
   padding: 20px 0;
   margin: 0 auto;
   text-align: center;
-  /* ①中にあるp要素の中央添え、他の指定方法ありますか？ */
 }
 .top-child {
   width: 20%;
@@ -13,14 +12,6 @@
 }
 /* inlineだと幅と高さがきかない */
 
-/* ②上の指定方法はpはいらないのはなぜですか？？
-（コメントでhtmlの囲い方も変えてます）PC目線でかんがえる？？
-.top-child p {
-  width: 20%;
-  background-color: #ffd9df;
-  display: inline-block;
-}
-  */
 #middle {
   width: 800px;
   height: 800px;
