@@ -3,6 +3,7 @@
   background-color: #dcc9f4;
   padding: 20px 0;
   margin: 0 auto;
+  text-align: center;
   /* ①中にあるp要素の中央添え、他の指定方法ありますか？ */
 
   /* ①の回答になります。
@@ -18,6 +19,7 @@
 .top-child {
   width: 20%;
   background-color: #ffd9df;
+  margin: 0 5px;
   /* flexを使用する場合はdisplay: inline-block;不要になります。 */
   /* display: inline-block; */
 }
